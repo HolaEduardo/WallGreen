@@ -70,7 +70,7 @@ Crear un prototipo comercializable para el cuidado y mantención de jardines nor
 
 >Objetivos específicos 
 
-Nuestros objetivos específicos se dividirán en 3 fases de desarrollo
+Nuestros objetivos específicos se dividirán en 3 fases de desarrollo y una comercial.
 
 Fase 1: v1.x.x: El objetivo es crear y testear un sistema autónomo de riego por goteo para muros verticales. Considerando impresión por pantalla OLED los procesos del programa.
 
